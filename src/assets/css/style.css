@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700&amp;display=swap");
+body {
+    margin: 0;
+    font-family: "Inter", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #737491;
+}
+
+.rating span {
+    color: #eee;
+}
+.rating .checked {
+    color: #FF9529;
+}
